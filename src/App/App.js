@@ -46,9 +46,19 @@ class App extends Component {
             <div className='card pop-12'>
               
             </div>
+            <div className='card pop-25'>
+              
+            </div>
             <div className='card pop-13'>
               
             </div>
+            <div className='card pop-26'>
+              
+            </div>
+            <div className='card pop-24'>
+              
+            </div>
+            
             <div className='card pop-14'>
               
             </div>
@@ -59,6 +69,9 @@ class App extends Component {
               
             </div>
             <div className='card pop-17'>
+              
+            </div>
+            <div className='card pop-23'>
               
             </div>
             <div className='card pop-18'>
