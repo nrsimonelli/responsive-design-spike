@@ -181,6 +181,16 @@ background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
   background-position: center;
   background-size: cover;
 }
+.pop-27 {
+  background-image: url('/images/27.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.pop-28 {
+  background-image: url('/images/28.jpg');
+  background-position: center;
+  background-size: cover;
+}
 
 .nav{
 --red: #f98ca4;

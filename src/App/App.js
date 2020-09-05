@@ -12,6 +12,12 @@ class App extends Component {
         </div>
         <div id='BODY' className='material'>
           <div className='container'>
+            <div className='card pop-27'>
+              
+            </div>
+            <div className='card pop-28'>
+              
+            </div>
             <div className='card pop-1'>
               
             </div>
