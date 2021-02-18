@@ -2,7 +2,21 @@
 
 My introduction to responsive front end design which proved to be a very formative learning experience.
 
-## CSS
+## Primary features
+
+Explored bold font and custom text useage via a lot of text shadow and linear gradient
+
+![linear](/src/static/img/linear.png)
+
+![shadow](/src/static/img/shadow.png)
+
+And made sure to provide a good experience for both mobile and desktop viewers
+
+![mobile](/src/static/img/mobile.png)
+
+![desktop](/src/static/img/desktop.png)
+
+## CSS covered
 
 Researched and implemented
 - media rule for conditional widths
